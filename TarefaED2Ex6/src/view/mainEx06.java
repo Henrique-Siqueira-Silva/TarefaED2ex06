@@ -13,11 +13,11 @@ public class mainEx06 {
 		
 		vet = m.Trocavet(vet, 10,0,0);
 		vet2 = m.Trocavet(vet2, 9, 0,0);
-		for ( int i =0; i < 10; i++) {
+		for ( int i =0; i < 11; i++) {
 			System.out.print(vet[i]);
 		}
 		System.out.println(" ");
-		for ( int i =0; i < 9; i++) {
+		for ( int i =0; i < 10; i++) {
 			
 			System.out.print(vet2[i]);
 		}
